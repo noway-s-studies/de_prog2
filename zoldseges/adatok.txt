@@ -1,0 +1,14 @@
+0;ezustfenyo;ezust/barna
+1;petrezselyem;zold
+2;paradicsom;piros
+0;szintelen noveny;
+2;ananasz;sarga/barna
+2;dinnye;zold/piros
+1;szintelen zoldseg;
+2;szintelen gyumolcs;
+0;sokszinu noveny;kek/barna/piros/sarga/zold
+1;sargarepa;narancssarga
+2;narancs;narancssarga
+2;citrom;sarga
+2;magyar narancs;piros/feher/zold
+1;lilahagyma;zold/lila/piros

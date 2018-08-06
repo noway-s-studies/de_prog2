@@ -1,0 +1,6 @@
+IDK302;Magas szintu programozasi nyelvek 2;5
+IDK302;Nem lesz a hálóban;0
+IDK302;Magas szintu programozasi nyelvek 2;5;E
+XXX;Hibás óraszámú kurzus;1;E;terem;0;V;10:34
+IDK302;Magas szintu programozasi nyelvek 2;5;G;IK-105;4;SZE;14:00
+IDK302;Ez sem lesz a hálóban;5;G;IK-106;4;H;08:00

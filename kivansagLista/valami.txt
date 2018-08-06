@@ -1,0 +1,5 @@
+T;Gazdálkodj okosan!;10;2;6
+T;Puzzle 15 db-os;0;0;0
+K;Kanaszta;10;4;4;francia;110
+K;Kanasztasz;12;1;4;francia;110
+K;Fekete Péter;10;1;4;magyar;32

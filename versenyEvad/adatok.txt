@@ -1,0 +1,3 @@
+T;Országos Középiskolai Tanulmányi Verseny;fizika;2016.11.17;19:00;14:00
+P;DEIK Regionális Programozó Csapatverseny;2014.12.04;12:01;15:00;C,C++,Java,C#
+P;Hibás prog. verseny: nincs nyelv;2017.01.06;13:00;16:00
